@@ -1,6 +1,6 @@
 {
   "name": "wepy-urlencode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wepy urlencode urldecode",
   "main": "./lib/index.js",
   "scripts": {
