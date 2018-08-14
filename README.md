@@ -1,4 +1,4 @@
-urlencode [![Build Status] [![Coverage Status](https://coveralls.io/repos/node-modules/urlencode/badge.png)](https://coveralls.io/r/node-modules/urlencode)
+wepy-urlencode 
 =======
 
 [![NPM](https://nodei.co/npm/wepy-urlencode.png?downloads=true&stars=true)](https://nodei.co/npm/wepy-urlencode/)
