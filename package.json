@@ -1,0 +1,24 @@
+{
+  "name": "wepy-urlencode",
+  "version": "1.0.0",
+  "description": "wepy urlencode urldecode",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpzxgcr/wepy-urlencode.git"
+  },
+  "keywords": [
+    "wepy",
+    "urldecode",
+    "urlencode"
+  ],
+  "author": "wangliyuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zpzxgcr/wepy-urlencode/issues"
+  },
+  "homepage": "https://github.com/zpzxgcr/wepy-urlencode#readme"
+}
